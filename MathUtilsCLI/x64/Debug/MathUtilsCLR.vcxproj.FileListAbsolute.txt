@@ -1,0 +1,5 @@
+D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\x64\Debug\Ijwhost.dll
+D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\x64\Debug\MathUtilsCLR.deps.json
+D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\x64\Debug\MathUtilsCLR.runtimeconfig.json
+D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\MathUtilsCLR\x64\Debug\MathUtilsCLR.sourcelink.json
+D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\MathUtilsCLR\x64\Debug\MathUtilsCLR.genruntimeconfig.cache

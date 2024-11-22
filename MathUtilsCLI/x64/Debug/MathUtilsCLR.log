@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MathUtilsCLR.cpp
+  Generating Code...
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MathUtils.lib(MathUtils.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  MathUtilsCLR.vcxproj -> D:\Users\PraveenS\source\repos\Github\NativeC++Lib_to_ManagedApp\x64\Debug\MathUtilsCLR.dll
