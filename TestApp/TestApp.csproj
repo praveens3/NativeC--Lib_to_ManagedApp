@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>x64</PlatformTarget>
+    <SupportedOSPlatformVersion>8.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MathUtilsCLR">
+      <HintPath>..\x64\Debug\MathUtilsCLR.dll</HintPath>
+    </Reference>
+    <Reference Include="MathUtilsCLR">
+      <HintPath>..\x64\Debug\MathUtilsCLR.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
